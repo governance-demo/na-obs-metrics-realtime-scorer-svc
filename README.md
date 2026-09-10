@@ -1,2 +1,6 @@
 # na-obs-metrics-realtime-scorer-svc
-observability / standard / na
+
+Team: **observability**  
+Tier: **standard**  
+Region: **na**  
+Synthetic demo repo for the Domo governance platform.
